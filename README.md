@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Yahia,
 
 ### 🚀 About Me
-My name is yahia mahmoud, My age is 17 and I live in Alexandria in Egypt and I speak Arabic and English and I know a bit about Italian as it is my second language in secondary school,I love programming, mathematics and cycling, I am used to getting up early at 4 AM even in holidays.
+My name is yahia mahmoud, My age is 18 and I live in Alexandria in Egypt and I speak Arabic and English.I love programming, mathematics and cycling, I am used to getting up early at 4 AM even in holidays.
 
 ### 🛠 Skills
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   
