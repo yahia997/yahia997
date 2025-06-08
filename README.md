@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yahya Mahmoud
+# Hi there 👋 I'm Yahya
 
 - 👩🏻‍💻 Aspiring Data Engineer.
 - 🔭 Also have knowlegde in Machine learning and Data Science.
