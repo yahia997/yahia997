@@ -4,7 +4,7 @@
 - 🔭 Also have knowlegde in Machine learning and Data Science.
 - 🌱 Third-year Data Science student at the Faculty of Computers and Data Science, Alexandria University.
 - 👯 I'm looking to collaborate on a huge Data Science project.
-- 🌷 Team leader, good planner.
+- 🌷 Problem-solver, Team leader, Good planner.
 
 
 ## 📈 GitHub Stats
