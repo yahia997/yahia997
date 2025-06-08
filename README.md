@@ -1,26 +1,26 @@
-# Hi there 👋, I'm Yahia,
+# Hi there 👋 I'm Yahya Mahmoud
 
-### 🚀 About Me
-My name is yahia mahmoud, My age is 18 and I live in Alexandria in Egypt and I speak Arabic and English.I love programming, mathematics and cycling, I am used to getting up early at 4 AM even in holidays.
+- 👩🏻‍💻 Aspiring Data Engineer.
+- 🔭 Also have knowlegde in Machine learning and Data Science.
+- 🌱 Third-year Data Science student at the Faculty of Computers and Data Science, Alexandria University.
+- 👯 I'm looking to collaborate on a huge Data Science project.
+- 🌷 Team leader, good planner.
 
-### 🛠 Skills
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%171717)  
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
-* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-* ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-* ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-* ![JSON](https://img.shields.io/badge/json-%234ea94b.svg?style=for-the-badge&logo=json)
 
-### 🔗 Links
+## 📈 GitHub Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahia997&layout=compact&theme=radical)
+
+---
+
+## 🌐 Find me around the web
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yahia-mahmoud.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yahya-zakaria-82419621a/)
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yahia.mahmood.33)
-[![hackerRank](https://img.shields.io/badge/hackerrank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yahiamahmood0123)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/YahiaMahmoud)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yahiamahmoood333/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Competitive%20Coding-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/yahiamahmoood333)
 
 
 
