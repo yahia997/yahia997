@@ -9,7 +9,7 @@
 
 ## 📈 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=yahia997&color=blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahia997&layout=compact&theme=radical)
 
