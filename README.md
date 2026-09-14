@@ -1,9 +1,12 @@
 # Hi there 👋 I'm Yahya
 
-- 👩🏻‍💻 Aspiring Data Engineer.
-- 🔭 Also have knowlegde in Machine learning and Data Science.
-- 🌱 Third-year Data Science student at the Faculty of Computers and Data Science, Alexandria University.
-- 👯 I'm looking to collaborate on a huge Data Science project.
+- 👩🏻‍💻 Aspiring Data Engineer, passionate about building scalable data pipelines and AI/ML solutions.
+- 💼 Ex-Software Engineer Intern @ Deloitte Innovation Hub.
+- 💼 Big Data Alumnus @ Samsung Innovation Campus.
+- 🔬 Ex-Research Intern @ Nile University.
+- 🚀 Manager of Projects @IEEE Alexandria, Ex-Trainer @ICPC FCDS.
+- 🌱 Fourth-year Computing and Data Science student at Alexandria University.
+- 👯 Looking to collaborate on impactful and innovative Data Science / Data Engineering projects/ideas.
 - 🌷 Problem-solver, Team leader, Good planner.
 
 
